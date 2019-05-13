@@ -1,5 +1,5 @@
 import test from 'ava';
-import Main from '../lib/8583.js';
+import Main from '../lib/8583-ASCII.js';
 
 /*
 Support custom iso 8583 formats
